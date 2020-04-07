@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView Tutorial</string>
+    
+    <string-array name="places">
+        <item>Eiffel Tower</item>
+        <item>Great Wall of China</item>
+        <item>Kremlin</item>
+        <item>Leaning Tower of Pisa</item>
+        <item>Pyramid of Giza</item>
+        <item>Sydney Opera House</item>
+        <item>Statue of Liberty</item>
+        <item>Taj Mahal</item>
+        <item>Easter Island Moai</item>
+        <item>Machu Picchu</item>
+    </string-array>
+</resources>
